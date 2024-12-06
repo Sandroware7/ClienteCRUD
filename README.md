@@ -1,6 +1,6 @@
 # [ClienteCRUD](........)
 
-[![ClienteCRUD](https://i.postimg.cc/NMz836Vg/dinodev-ai.png)](https://elliotgaramendi.github.io/dinodev-ai/)
+[![ClienteCRUD](......)]
 
 ## 📖 Description 📖
 👨‍💻The ClientsCRUD project is an interactive application designed to efficiently record, query, update and delete customer information using modular programming and OOP concepts in Python. It offers a practical and accessible solution for small and medium-sized businesses. 👨‍💻
@@ -8,7 +8,7 @@
 ## 💻 Installation 💻
 - Navigate to the folder that will contain the project
 - Open terminal
-  - git clone https://github.com/elliotgaramendi/dinodev-ai.git
+  - git clone https://github.com/Sandroware7/ClienteCRUD
   - cd ClienteCRUD
   - Open the project with a server
 
